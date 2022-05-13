@@ -4,6 +4,8 @@
 
 This bot will listen to any mentions on Twitter every 10 minutes and then reply with a bar graph containing the number of commits over the past 30 days of the GitHub user that was mentioned in the Tweet.
 
+<img width="472" alt="image" src="https://user-images.githubusercontent.com/15838298/168314134-833dfddc-50e0-49ee-be68-a703a992f746.png">
+
 Note that this is merely <b>proof-of-concept</b>. It does not handle errors or log outputs in any meaningful way, it only displays a single statistic (which is commit activity over 30 days). It was however an interesting way to explore interactivity between APIs and data visualization.
 
 ## Install
